@@ -1,0 +1,19 @@
+{
+  "name": "resumablejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resumable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stingerlabs/resumablejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stingerlabs/resumablejs/issues"
+  },
+  "homepage": "https://github.com/stingerlabs/resumablejs#readme"
+}
