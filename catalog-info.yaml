@@ -1,0 +1,21 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: resumablejs
+  description: Fork used for our old style file uploads to repo-service
+  annotations:
+    github.com/project-slug: stingerlabs/resumablejs
+    sonarqube.org/project-key: stingerlabs_resumablejs
+    snyk.io/org-name: greenlight-engineering
+    snyk.io/project-ids: 6210883e-8327-4469-8f24-1ec8c424fbdb
+  links:
+    - url: https://greenlightguru.slack.com/archives/C05FS321Y6R
+      title: '#ask channel'
+      icon: help
+  tags:
+    - javascript
+    - fork
+spec:
+  type: library
+  lifecycle: production
+  owner: team-gg
