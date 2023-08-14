@@ -6,8 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: stingerlabs/resumablejs
     sonarqube.org/project-key: stingerlabs_resumablejs
-    snyk.io/org-name: greenlight-engineering
-    snyk.io/project-ids: 6210883e-8327-4469-8f24-1ec8c424fbdb
+    snyk.io/org-id: de43b40c-8694-45ec-985c-404d8ab5977e
   links:
     - url: https://greenlightguru.slack.com/archives/C05FS321Y6R
       title: '#ask channel'
